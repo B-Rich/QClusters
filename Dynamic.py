@@ -390,7 +390,7 @@ if __name__ == "__main__":
 
     # Try to uncomment one of these lines
     disturbDemo()
-    orientMeltingDemo()
+    #orientMeltingDemo()
     #ultimateMeltingDemo()
 
 
